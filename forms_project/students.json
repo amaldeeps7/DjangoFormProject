@@ -1,0 +1,9 @@
+{
+  "students" :  [
+    	{ "degree" : [{ "title" : "M.Tech", "branch" : "AME" }], "roll_number" : "AM.EN.P2CSN21003", "name" : "Arjun", "year" : "1", "dob" : "1994-12-07" },
+	{ "degree" : [{ "title" : "M.Tech", "branch" : "AME" }], "roll_number" : "AM.EN.P2CSN21004", "name" : "Ajay", "year" : "1", "dob" : "1994-11-07" },
+	{ "degree" : [{ "title" : "M.Tech", "branch" : "AME" }], "roll_number" : "AM.EN.P2CSN21005", "name" : "James", "year" : "1", "dob" : "1994-07-07" },
+	{ "degree" : [{ "title" : "M.Tech", "branch" : "AME" }], "roll_number" : "AM.EN.P2CSN21006", "name" : "John", "year" : "1", "dob" : "1994-01-07" },
+	{ "degree" : [{ "title" : "M.Tech", "branch" : "AME" }], "roll_number" : "AM.EN.P2CSN21007", "name" : "Jessy", "year" : "1", "dob" : "1994-08-07" }
+  ]
+}
